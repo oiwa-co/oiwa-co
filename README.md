@@ -6,9 +6,7 @@ I am a student in the [Department of Computer Science and Electronics](https://w
 
 - Lisp dialects
 - Programming language theory
-- C programming
 - Linux systems administration
-- LaTeX document markup language
 - Java/Spring Boot
 
 ## 🛠 Skills
